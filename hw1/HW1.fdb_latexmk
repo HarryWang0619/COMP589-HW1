@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1644218832 "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.tex" "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.pdf" "HW1" 1644219080
-  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.aux" 1644218833 2390 83744c36ae6d73a4f9258e47318180b6 ""
-  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.tex" 1644218942 16999 d1cdb94072a9285d61ba48a00336f0ea ""
+["pdflatex"] 1644965372 "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.tex" "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.pdf" "HW1" 1644965373
+  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.aux" 1644965373 2390 83744c36ae6d73a4f9258e47318180b6 ""
+  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.tex" 1644965372 17003 34b84b4bc8da030f5a7885d95c7cda0b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -143,16 +143,16 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1638335592 2724738 5f7bd1606674005ecf38bdbb025cad09 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "HW1.aux" 1644218833 2390 83744c36ae6d73a4f9258e47318180b6 "pdflatex"
-  "HW1.out" 1644218833 199 fffd338ff108af21009102bfdd914848 "pdflatex"
-  "HW1.tex" 1644218942 16999 d1cdb94072a9285d61ba48a00336f0ea ""
+  "HW1.aux" 1644965373 2390 83744c36ae6d73a4f9258e47318180b6 "pdflatex"
+  "HW1.out" 1644965373 199 fffd338ff108af21009102bfdd914848 "pdflatex"
+  "HW1.tex" 1644965372 17003 34b84b4bc8da030f5a7885d95c7cda0b ""
   "figures/example_graph.pdf" 1644218769 49855 d1926b8ed480ae8e876e425f3dec509a ""
   "figures/example_histogram.pdf" 1644218769 339137 66028a9f6ea1e2f8472f6e50dc25ce11 ""
   "figures/iris-picture.png" 1644218769 283310 edb9cb2ac0a15eaf78423b408919f8d3 ""
   (generated)
-  "HW1.out"
   "HW1.log"
   "HW1.pdf"
-  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.log"
+  "HW1.out"
   "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.pdf"
+  "/Users/harrywanghc/Developer/2022/COMPSCI589/COMPSCI589-HW1/hw1/HW1.log"
   "HW1.aux"
